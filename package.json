@@ -1,0 +1,11 @@
+{
+  "name": "wrap-with-shouts",
+  "version": "1.0.0",
+  "description": "wraps strings with exclamation points",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vinson aiono",
+  "license": "ISC"
+}
