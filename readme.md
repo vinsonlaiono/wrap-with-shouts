@@ -12,7 +12,11 @@ const saying = 'Stop in the name of love';
 const res = shout(saying);
 console.log(res);
 ```
-
+navigate to project directory
+### run file
+```
+node app.js
+```
 ### output
 ```
 !! Stop in the name of love !!
