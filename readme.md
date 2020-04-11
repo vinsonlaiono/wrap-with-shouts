@@ -5,7 +5,7 @@
 ```
 npm install wrap-with-shouts
 ```
-
+### app.js
 ```
 const shout = require('wrap-with-shouts');
 const saying = 'Stop in the name of love';
